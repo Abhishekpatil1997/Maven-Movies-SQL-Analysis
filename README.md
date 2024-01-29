@@ -5,7 +5,7 @@ This project performs a comprehensive SQL-based analysis of the database from Ma
 - Develop SQL queries to extract insights across business areas - staff, inventory, customers, transactions
 - Present findings to demonstrate proficiency in SQL analytics
 
-## **For complete details on the analysis including example queries and output, please refer to the associated [PDF report](Maven-Movies-SQL-Analysis\Maven_Movies_SQL_Analysis_Report.pdf) above.**
+## **For complete details on the analysis including example queries and output, please refer to the associated [PDF report](Maven_Movies_SQL_Analysis_Report.pdf) above.**
 
 ## Database Overview
 The mavenmovies database captures information on:
